@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CristinaLerint
-- 👀 I’m interested in learning about programming language and combining them
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on .net and java
+- 👀 I’m interested in learning about programming languages
+- 🌱 I’m have started with SQL
+- 💞️ currently learning java
 - 📫 How to reach me lerint.cristina@gmail.com
 
 <!---
